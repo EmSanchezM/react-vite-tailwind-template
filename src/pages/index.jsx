@@ -1,3 +1,3 @@
-const ExamplePage = () => <h2>Page de ejemplo</h2>;
+const ExamplePage = () => <h2>Example page</h2>;
 
 export default ExamplePage;
